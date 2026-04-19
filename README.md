@@ -3,19 +3,20 @@ Hi, I'm Mironshox Shukurov, Front-end  Web developer from Uzbekistan. My passion
 
 ### 🚀 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MshDev20105&show_icons=true&theme=tokyonight&count_private=true" alt="MshDev20105 stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MshDev20105&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</p>
+# 👋 Salom, men Mirshox!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MshDev20105&theme=tokyonight" alt="GitHub Streak" />
-</p>
----
-
-### 🛠 Languages and Tools:
+### 💻 Men foydalanadigan texnologiyalar:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,figma,git" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" />
+</a>
+</p>
+
+### 📊 Mening statistikalarim:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mshdev20105&show_icons=true&theme=dark&count_private=true" alt="stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshdev20105&layout=compact&theme=dark" alt="languages" />
 </p>
