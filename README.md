@@ -4,14 +4,13 @@ Hi, I'm Mironshox Shukurov, Front-end  Web developer from Uzbekistan. My passion
 ### 🚀 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSHdev20105&show_icons=true&theme=tokyonight&count_private=true" alt="MSHdev20105 stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSHdev20105&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MshDev20105&show_icons=true&theme=tokyonight&count_private=true" alt="MshDev20105 stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MshDev20105&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSHdev20105&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MshDev20105&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🛠 Languages and Tools:
